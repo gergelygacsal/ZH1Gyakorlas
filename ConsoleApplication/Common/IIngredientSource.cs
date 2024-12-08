@@ -16,7 +16,7 @@ namespace Common
         public IEnumerable<Ingredient> GetIngredients()
         {
             var ingredients = new List<Ingredient>();
-            for (int i = 0; i < 8; i++) // Példa: 8 összetevő
+            for (int i = 0; i < 8; i++)
             {
                 ingredients.Add(Ingredient.GetRandom());
             }

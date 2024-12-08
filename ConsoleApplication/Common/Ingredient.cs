@@ -21,7 +21,7 @@
 
             string randomName = names[random.Next(names.Length)];
             string randomUnit = units[random.Next(units.Length)];
-            int randomCount = random.Next(1, 101); // 1-100 között
+            int randomCount = random.Next(1, 101);
 
             return new Ingredient(randomName, randomCount, randomUnit);
         }
