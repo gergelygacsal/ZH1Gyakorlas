@@ -1,5 +1,8 @@
 ConsoleApplication/.vs/
 ConsoleApplication/ConsoleApplication/obj/
-ConsoleApplication/Common/obj
-ConsoleApplication/Tests/obj
+ConsoleApplication/ConsoleApplication/bin/
+ConsoleApplication/Common/obj/
+ConsoleApplication/Common/bin/
+ConsoleApplication/Tests/obj/
+ConsoleApplication/Tests/bin/
 /.vs
